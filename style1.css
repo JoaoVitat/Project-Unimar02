@@ -114,6 +114,10 @@ button{
     position: relative;
 }
 
+button .logo{
+    height: 10vh;
+}
+
 button:hover{
     color: #ffffff;
     cursor: pointer;
