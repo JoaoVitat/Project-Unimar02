@@ -121,6 +121,10 @@ button{
 
 button .logo{
     height: 10vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
 }
 
 button:hover{
@@ -175,4 +179,13 @@ body{
     background-image: url(U2.png);
     height: 89vh;
     width: 100%;
+}
+
+body{
+    background-color: #003264;
+    background-image: url(U2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
 }
